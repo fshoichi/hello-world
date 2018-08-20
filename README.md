@@ -6,3 +6,5 @@ Hello guys!
 Let me start to understand github with this tutorial.
 
 Thanks!
+
+let me intentionally make branches conflict.
