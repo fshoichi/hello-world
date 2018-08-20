@@ -7,5 +7,5 @@ Let me start to understand github with this tutorial.
 
 Thanks!
 
-add some information to confirm what will happen after merging read_ branch to master branch.
+master
 
